@@ -1,0 +1,5 @@
+Model_Name,Train_accuracy,Tests_acuracy
+Logistic Regression ,0.846428571,0.833333333
+SVM,0.848214286,0.833333333
+Decision Tree,0.885714286,0.777777778
+KNN,0.848214286,0.833333333
